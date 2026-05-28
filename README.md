@@ -4,9 +4,9 @@ My name is Javier Macías, and I am a computer scientist from Spain.
 
 ## About me
 
-* I am currently in university
+* I am currently at university
 * I am learning Rust and Svelte on my own
-* I am interested in cybersecurity, and i also program apps that i find useful.
+* I am interested in cybersecurity, and I also program apps that I find useful.
 
 ## Skills (included but not limited to)
 
